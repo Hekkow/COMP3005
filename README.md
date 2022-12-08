@@ -1,1 +1,2 @@
-# COMP3005
+# COMP3005 Omid Ghafori 101188757
+To run, run createtables.sql from SQL folder then run script.py. If you get an error, try installing psycopg2 using pip install psycopg2-binary
